@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /for/
+Disallow: /previews/
 
 Sitemap: https://haldenwest.com/sitemap.xml
